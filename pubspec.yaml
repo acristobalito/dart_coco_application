@@ -8,6 +8,8 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  dartz: ^0.10.1
+  http: ^1.2.1
   # path: ^1.8.0
 
 dev_dependencies:
